@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Welcome to Decide-o-matic.</string>
+    <string name="app_name">Decide-o-Matic</string>
+    <string name="btnAddOption">Add Option</string>
+    <string name="btnDecide">Press to decide</string>
+    <string name="emptyList">No Options Added</string>
+    <string name="subtitle">Can\'t make a decision?  Let me help!</string>
+    <string name="btnClearAll">Clear All</string>
+    <string name="settings_title">Settings</string>
+    <string name="back_title">Back</string>
+    <string name="exit_title">Exit</string>
+    <string name="shake_title">Shake</string>
+    <string name="shake_summary">If enabled, shake device to have Decide-o-matic make a decision.</string>
+    <string name="btnShake">Shake to Decide</string>    
+
+</resources>
